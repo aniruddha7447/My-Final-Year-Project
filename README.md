@@ -41,14 +41,116 @@ Each model is trained on preprocessed Instagram account data using scikit-learn.
 📦 **Offline Use** – No internet required post-installation
 
 ---
+## 🏗️ System Architecture
 
-## 📸 Screenshots
++-------------+ +----------------+ +------------------------+
+| User GUI | --> | Input Layer | --> | Machine Learning Model |
++-------------+ +----------------+ +------------------------+
+| | |
+↓ ↓ ↓
+[ Followers, Posts ] → [ Feature Extraction ] → [ Output: Real/Fake ]
 
-| Login Page | Dashboard (Prediction) | Graphs |
-|------------|------------------------|--------|
-| ![Login](images/new_login.png) | ![Dashboard](images/new_dashboard.png) | ![Graph](images/new_graph_output.png) |
 
 ---
 
-## 🏗️ System Architecture
+## 🛠️ Tools & Technologies
+
+- **Python 3.5+**
+- **Tkinter** for GUI
+- **scikit-learn** for ML
+- **matplotlib** for graphs
+- **SQLite** database for login/auth
+- IDE: **Spyder**
+- OS: **Windows 10/11**
+
+---
+
+## 🧪 Functional Modules
+
+### 🔐 Admin Panel
+- View, verify, and authorize new users
+
+### 👤 User Module
+- Register and log in
+- Input profile data
+- View prediction results and model performance
+
+### 📊 ML System
+- Feature extraction
+- Classification using trained models
+- Graphical output of results
+
+---
+
+## 🧑‍💻 Team Members
+
+| Name                      | Seat No       |
+|---------------------------|---------------|
+| Apurv Kamalakar Badave    | B190364217    |
+| Aniruddha Shivaji Lalge   | B190364389    |
+| Nikhil Lalasaheb Elajale  | B190364283    |
+| Pankaj Dayaram Godara     | B190364304    |
+
+---
+
+## 🏫 Academic Info
+
+- 🎓 **Bachelor of Engineering (Computer Engineering)**  
+- 🏛️ **Smt. Kashibai Navale College of Engineering, Pune**  
+- 📚 **Savitribai Phule Pune University**  
+- 📅 Academic Year: **2023–2024**  
+- 👩‍🏫 Guide: **Prof. Priyanka Kinage**
+
+---
+
+## 🗃️ Dataset
+
+The dataset used consists of **real and fake Instagram profiles** labeled manually and preprocessed with care. Features include:
+
+- Number of posts  
+- Follower/Following ratio  
+- Bio and profile picture status  
+- Engagement metrics  
+
+> ⚠️ *Dataset not included due to privacy policy.*
+
+---
+
+## 🧾 Software Requirements
+
+- Python 3.5+
+- Spyder IDE
+- Required Libraries:
+  - `scikit-learn`
+  - `matplotlib`
+  - `joblib`
+  - `tkinter`
+  - `sqlite3`
+
+> ⚠️ Minimum: Intel i5, 8 GB RAM recommended for smooth operation.
+
+---
+
+## 🧪 Testing Strategy
+
+- ✅ **Unit Testing**  
+- 🔄 **Integration Testing**  
+- ⚪ **White-box & Black-box Testing**  
+- 📊 **Test Reports for GUI, Model Accuracy, and Flow**
+
+---
+
+## ✅ Conclusion
+
+This project provides a **powerful AI-driven tool** to detect fake Instagram profiles and promotes a **safer online experience**. With a blend of ML techniques, real-time GUI interaction, and security checks, this system helps social media users, researchers, and businesses trust digital identities more effectively.
+
+---
+
+## 📬 Contact
+
+Have suggestions, ideas, or need help?
+
+📧 **aniruddhalalge283@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/aniruddha-lalge-aa06041b3/)  
+🐙 [GitHub](https://github.com/aniruddha7447)
 
