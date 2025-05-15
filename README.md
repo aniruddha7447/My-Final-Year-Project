@@ -44,9 +44,9 @@ Each model is trained on preprocessed Instagram account data using scikit-learn.
 
 ## 📸 Screenshots
 
-| GUI Dashboard | Prediction Output | Graphs |
-|---------------|-------------------|--------|
-| ![Form](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/img1.png) | ![Result](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/img3.jpeg) | ![Graph](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/barchart.png) |
+| Login Page | Dashboard & Prediction | Graphical Analysis |
+|------------|-------------------------|---------------------|
+| ![Login](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/Figure%202024-01-25%20130624%20(0).png) | ![Prediction](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/Figure%202024-01-25%20130624%20(2).png) | ![Charts](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/Correlation.png) |
 
 ---
 
@@ -139,6 +139,7 @@ The dataset used consists of **real and fake Instagram profiles** labeled manual
 > ⚠️ Minimum: Intel i5, 8 GB RAM recommended for smooth operation.
 
 ---
+
 ## 🧪 Testing Strategy
 
 - ✅ **Unit Testing**  
@@ -154,19 +155,12 @@ This project provides a **powerful AI-driven tool** to detect fake Instagram pro
 
 ---
 
-## 📜 License
-
-This project is released under the **MIT License**.  
-Feel free to use, modify, and distribute — with credit.
-
----
-
 ## 📬 Contact
 
 Have suggestions, ideas, or need help?
 
 📧 Reach out at: **your.email@example.com**  
-🔗 [LinkedIn]([(https://www.linkedin.com/in/aniruddha-lalge-aa06041b3/)])  
+🔗 [LinkedIn](https://www.linkedin.com/in/aniruddha-lalge-aa06041b3/)  
 🐙 [GitHub](https://github.com/aniruddha7447)
 
 ---
