@@ -24,9 +24,9 @@ It features a full **desktop GUI**, clear visual output, and performance metrics
 
 | Algorithm         | Accuracy     |
 |------------------|--------------|
-| Decision Tree     | 95.83%       |
+| Decision Tree     | 95.83% ✅      |
 | Random Forest     | 97.22% ✅     |
-| Support Vector Machine (SVM) | 95.83%       |
+| Support Vector Machine (SVM) | 95.83% ✅      |
 
 Each model is trained on preprocessed Instagram account data using scikit-learn.
 
