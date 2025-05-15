@@ -46,7 +46,7 @@ Each model is trained on preprocessed Instagram account data using scikit-learn.
 
 | Login Page | Dashboard (Prediction) | Graphs |
 |------------|------------------------|--------|
-| ![Login](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/Figure%202024-01-25%20130624%20(0).png) | ![Dashboard](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/Figure%202024-01-25%20130624%20(2).png) | ![Graph](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/grades.png) |
+| ![Login](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/Figure%202024-01-25%20130624%20(0).png) | ![Dashboard]() | ![Graph](Fake%20Instagram%20Profile%20Prediction%20100%25%20code/Figure%202024-01-25%20130624%20(2).png) |
 
 ---
 
